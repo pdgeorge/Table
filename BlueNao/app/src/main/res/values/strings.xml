@@ -1,0 +1,27 @@
+<resources>
+
+    <!--activity_main.xml-->
+    <string name="app_name">BlueNao</string>
+
+    <string name="main_intro">Welcome to this Program!</string>
+    <string name="status">Status will go here</string>
+    <string name="reply">Reply from device will go here</string>
+
+    <string name="button_top">Forward</string>
+    <string name="button_mid">Reverse</string>
+    <string name="button_left">Left</string>
+    <string name="button_right">Right</string>
+
+    <string name="button5">BT On</string>
+    <string name="button6">BT Off</string>
+    <string name="button7">List</string>
+    <string name="button8">Visible</string>
+
+    <!--MainActivity.java-->
+    <string name="failed_connection">"Failed connection"</string>
+
+    <!--device_list.xml-->
+    <string name="select">"Select btSerial device from paired devices:"</string>
+    <string name="error">"If no devices are listed please pair your device in Android settings"</string>
+    <string name="connect">"Connecting.."</string>
+</resources>
