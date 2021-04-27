@@ -14,3 +14,5 @@ TODO:
 Make a wiring diagram for what has been done so far.
 Create communication between Raspberry Pi and Arduino that works regardless of initial communication (BT or HTML)
 Prepare RPi for communication with additional Arduinos
+
+2021 NOTE: This is several years old. The physical elements I was using to build this project have been lost in several moves so the project has been effectively abandoned unforetunately. One day I may pick it back up but that would result in a complete overhaul.
